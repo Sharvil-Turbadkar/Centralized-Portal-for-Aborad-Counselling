@@ -6,19 +6,19 @@ We created this project to enhance the student and counselor experience by conne
 ## Business Goals:
 1.Which Counsellors earn the most?
 
-<img src= "images-counselling/Picture1.jpg" width="500" height="300">
+<img src= "images-counselling/Picture1.jpg" width="500" height="200">
 
 2.How does every counselor fare in their services (Feedback)
 
-<img src= "images-counselling/Picture2.jpg" width="500" height="300">
+<img src= "images-counselling/Picture2.jpg" width="500" height="200">
 
 3.Which form of counseling is the sought after 
 
-<img src= "images-counselling/Picture3.jpg" width="500" height="300">
+<img src= "images-counselling/Picture3.jpg" width="500" height="200">
 
 4.Which countries are hotbeds for which subjects
 
-<img src= "images-counselling/Picture4.jpg" width="500" height="300">
+<img src= "images-counselling/Picture4.jpg" width="500" height="200">
  
 5.How content are students with the service being provided   
 
