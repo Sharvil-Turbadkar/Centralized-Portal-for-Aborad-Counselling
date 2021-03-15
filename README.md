@@ -1,13 +1,28 @@
 # Abstract: 
+ 
+ <img src= "images-counselling/counselor-page-banner-1.png" width="700" height="400">
+
 We created this project to enhance the student and counselor experience by connecting them on a common CRM portal counselors counsel students. While making the database system when a counselor counsels a student the counselor is not available to other students as he is busy. The Database model is time and money efficient as auto assigns universities to students based on their academic profiles and computes counselors payrolls   
 ## Business Goals:
 1.Which Counsellors earn the most?
 
+<img src= "images-counselling/Picture1.jpg" width="500" height="100">
+
 2.How does every counselor fare in their services (Feedback)
+
+<img src= "images-counselling/Picture2.jpg" width="500" height="100">
+
 3.Which form of counseling is the sought after 
+
+<img src= "images-counselling/Picture3.jpg" width="500" height="100">
+
 4.Which countries are hotbeds for which subjects
+
+<img src= "images-counselling/Picture4.jpg" width="500" height="100">
+ 
 5.How content are students with the service being provided   
-6.Technologies: MS SQL,T-SQL,PL/SQL,MS Acess,MS Visio ,relational data models, entity-relationship modeling 
+
+## Technologies: MS SQL,T-SQL,PL/SQL,MS Acess,MS Visio ,relational data models, entity-relationship modeling 
 
 ## Goals achieved: 
 1. Fundamental data and database concepts
